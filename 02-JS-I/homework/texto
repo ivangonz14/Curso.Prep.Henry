@@ -1,0 +1,5 @@
+variables: guardar informacion en un lugar para despues poder recuperarlo.
+strings: cualquier texto entre comillas es un strings
+funciones: son objetos que se pueden manipular y transmitir. return: se usa para devolver un resultado. argumentos: el texto dentro de la funcion.
+declaraciones if: se usa para que una funcion verifique si es true o false, si es true se detendra o si no omitira y la funcion devolvera false.
+booleanos: es verdadero o falso.
