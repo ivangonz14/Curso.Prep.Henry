@@ -1,0 +1,4 @@
+For: evalua expresiones hasta que la declaracion sea falsa.
+&&: y evaluara ambas expresiones y devolvera true si ambas lo son. si uno o ambas son falso devolvera false.
+||: (O) devolvera verdadero si uno o ambas d las expresiones son true. si ambas son falsa devolvera false.
+!: (no) devolvera el valor booleano opuesto.
