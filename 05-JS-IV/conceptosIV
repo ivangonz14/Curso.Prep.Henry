@@ -1,0 +1,6 @@
+OBJETOS: contenedor de datos, contiene mucha informacion sobre una sola cosa.
+PROPIEDADES: son lo que contiene el objeto (clave-valor)
+METODOS: son las funciones guardadas en un objeto
+BUCLES FOR IN: recorre cada clave del objeto
+N.PUNTOS: accedo  a la PROPIEDAD del objeto
+N.CORCHETES: se usan mas en variables
