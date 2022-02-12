@@ -1,0 +1,2 @@
+Constructor(clase): son utiles para crear muchos objetos con propiedades y metodos.
+Prototype: las clases tienen una forma unica de establecer un metodo una vez y dar acceso a cada objeto de esa clase a esos metodos.
